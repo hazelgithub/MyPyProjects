@@ -23,7 +23,10 @@ def div(num1,num2):
 
 a = 'i am learning Python, what about you !!!'
 b = a.split(' ')
-print (len(b))
+## Enhancing for Release 2
+# Branch rel2
+#print (len(b))
+
 print (b)
 i = 0
 while i < len(b):
@@ -34,3 +37,8 @@ while i < len(b):
 # Branch rel1
 print ('########## {} ##########').format('Enhancing for Release 1')
 print(add(5,10))
+
+## Enhancing for Release 2
+# Branch rel2
+print ('########## {} ##########').format('Enhancing for Release 2')
+print(sub(15,2))
