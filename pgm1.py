@@ -33,12 +33,14 @@ while i < len(b):
     print (b[i])
     i = i + 1
 
+## Adding HotFix rel1.1
 ## Enhancing for Release 1
 # Branch rel1
-print ('########## {} ##########').format('Enhancing for Release 1')
+print ('########## {} ##########').format('Enhancement for Release 1')
 print(add(5,10))
 
+## Adding HotFix rel1.1
 ## Enhancing for Release 2
 # Branch rel2
-print ('########## {} ##########').format('Enhancing for Release 2')
+print ('########## {} ##########').format('Enhancement for Release 2')
 print(sub(15,2))
